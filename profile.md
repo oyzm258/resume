@@ -1,6 +1,6 @@
-## 名字
+## 姓名
 
-电话: 189 7469 1111　　　　　　　 　　　Email: xxx@gmail.com
+Phone: 170 7777 7777　　　　　　　 　　　Email: XXX@gmail.com
 
 GitHub: github.com/XX　　　　　　　　　　Blog: www.XX.com
 
