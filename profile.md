@@ -1,6 +1,6 @@
 ## 欧阳志明
 
-电话: 189 7469 7540　　　　　　　 　　　Email: oyzmlvxf@gmail.com
+电话: 189 7469 1111　　　　　　　 　　　Email: xxx@gmail.com
 
 GitHub: github.com/XX　　　　　　　　　　Blog: www.XX.com
 
