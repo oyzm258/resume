@@ -12,8 +12,8 @@
 
 - 5 年以上互联网架构经验，对分布式、高并发、高可用、大流量互联网系统架构有实战经验。
 - 熟悉微服务框架（Dubbo、Spring Cloud）和中间件技术（Redis、RabbitMQ、Zookeeper）。
-- 有DevOps实践经验，Jenkins持续集成/交付（CI/CD）、GitFlow、容器化（Docker、Rancher）。
-- 了解工业化前端技术，ES6、Webpack、基于Vue.js的PWA，以及Node.js的周边生态。
+- 对DevOps有深刻理解，Jenkins持续集成/交付（CI/CD）、GitFlow、容器化（Docker、Rancher）。
+- 了解工业化前端技术，ES6+、Webpack、基于Vue.js的PWA，以及Node.js的周边生态。
 - 有VMware ESXi、vSphere服务器虚拟化安装、部署、使用经验。
 
 ## 工作经历
